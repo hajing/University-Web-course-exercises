@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Line";
+    src: url("../fonts/Line.ttf");
+}
+@font-face {
+    font-family: "Mononoki";
+    src: url("../fonts/Mononoki.ttf");
+}
+@font-face {
+    font-family: "KeBen";
+    src: url("../fonts/KeBen.otf");
+}
+@font-face {
+    font-family: "XinQN";
+    src: url("../fonts/XinQingNian.otf");
+}
+body{
+    background-color: #5199b1;
+}
+.container-right{
+    color: white;
+    width: 34%;
+    margin-left: 60%;
+    margin-top: 6%;
+    text-shadow: 1px 4px 1px rgba(0,0,0,0.4);
+}
+.container-right h1{
+    font-family: Line;
+    font-size: 60px;
+}
+.p1{
+    font-family: Mononoki;
+    font-size: 20px;
+}
+.p2{
+    font-family: KeBen;
+    font-size: 30px;
+}
+.p3{
+    font-family: XinQN;
+    font-size: 40px;
+}
+.container-left{
+    background-image: url("../images/23.jpg");
+    left: 0;
+    position: absolute;
+    width: 50%;
+    top: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
