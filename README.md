@@ -6,3 +6,5 @@
 还是奉上地址吧，也算是自己进入这个行业的一个见证
 
 访问地址：[http://hajing.github.io/University-Web-course-exercises/index.html](http://hajing.github.io/University-Web-course-exercises/index.html)
+
+![作品首页](http://7xpy9b.com1.z0.glb.clouddn.com/jieye.jpg)
